@@ -3,4 +3,6 @@ These resources provide references and documentation to governments and governme
 
 The content here is a derivative of the Open Source Initiative's web page, "International Authority & Recognition" at [https://opensource.org/authority](https://opensource.org/authority). The goal of this work is to identify and share additional resources and references, adding evidence of the OSI's international authority and recognition as the steward of open source licensing and arbitrator for the "open source software" label.
 
+The work here is undertaken independantly of the Open Source Initiative and is not endorced, sponsored, or affirmed by the Open Source Initiative.
+
 All content here is available under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
