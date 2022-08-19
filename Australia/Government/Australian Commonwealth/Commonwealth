@@ -1,3 +1,10 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Title of the document</title>
+</head>
+<body>
+
 <a href="http://www.finance.gov.au/files/2012/04/AGuidetoOpenSourceSoftware.pdf">A Guide to Open Source Software for Australian Government Agencies</a><br>
 Department of Finance and Administration, Australian Government Information Management Office<br>
 June, 2011</p>
@@ -100,3 +107,7 @@ December 2012</p>
 
 <blockquote>
 <p>Open source software is computer software which is defined by several specific attributes that relate to its licensing and legal framework. For guidance on what constitutes open source software, refer to the <strong>Open Source Initiative</strong>. The Initiative sets out various rights and obligations for developers, distributors and users of open source software. These rules define the basic licence conditions under which software must be released to be considered 'open source'. (Pg. 13)</p>
+
+
+</body>
+</html>
