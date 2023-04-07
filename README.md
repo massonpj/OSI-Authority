@@ -5,4 +5,4 @@ The content here is a derivative of the Open Source Initiative's web page, "Inte
 
 The work here is undertaken independantly of the Open Source Initiative and is not endorced, sponsored, or affirmed by the Open Source Initiative.
 
-All content here is available under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+All content and data included here is available under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). Copyright 2023.
